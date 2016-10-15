@@ -1,5 +1,6 @@
 {
   "name": "playfab-sdk-browser",
   "version": "0.0.0",
-  "description": "-"
+  "description": "-",
+  "main": "PlayFabClientApi.js"
 }
